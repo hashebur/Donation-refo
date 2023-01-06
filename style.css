@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+}
+
+.text-discription {
+    font-size: 18px;
+    /* margin-top: 20px; */
+    /* padding: 50px; */
+    padding-left: 200px;
+    padding-right: 200px;
+
+}
+
+.contain {
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: 100%; */
+}
+
+.header {
+
+    text-align: center;
+    padding: 100px;
+    color: white;
+}
+
+
+
+.button {
+    color: #ffff;
+    background: tomato;
+    border: 0;
+    height: 40px;
+    width: 150px;
+    border-radius: 5px;
+    margin-top: 20px;
+
+}
+
+.head {
+    margin: 20;
+    font-weight: 700;
+    font-size: 55px;
+
+}
+
+.donation-head {
+    margin: 50px;
+    text-align: center;
+}
+
+/* dponat tk stayle */
+
+.box-caption {
+    padding: 30px;
+    margin: auto;
+}
+
+.box {
+    display: flex;
+    /* padding: 200px; */
+    justify-content: space-around;
+
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.box-model {
+    background-color: rgb(151, 223, 223);
+    height: 40px;
+    width: 80px;
+    text-align: center;
+    border-radius: 5px;
+    /* padding: 10px; */
+
+}
+
+.box-modele {
+    background-color: #db5f5f;
+    height: 40px;
+    width: 80px;
+    text-align: center;
+    border-radius: 5px;
+    /* border-color: red; */
+    border: 3px solid red;
+
+
+}
+
+.center {
+    color: darkgrey;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* icon continar */
+
+.box-2 {
+    display: flex;
+    gap: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 50px;
+}
+
+.flex-1 {
+    background: #4F9DA6;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: justify;
+    padding-top: 40px;
+}
+
+.flex-2 {
+    background: #FF5959;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: justify;
+    padding-top: 40px;
+
+}
+
+.flex-3 {
+    background: antiquewhite;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: justify;
+    padding-top: 40px;
+
+}
+
+/* donation pic */
+.salter {
+    margin-bottom: 40px;
+
+}
